@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// test for the compiler and running of the code
 public class Try {
     public static void main(String[] args) {
         Scanner txt = new Scanner(System.in);
